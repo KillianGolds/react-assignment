@@ -33,7 +33,6 @@ The Movies Fan app is a movie discovery platform that allows users to explore an
 ## Independent learning (If relevant).
 Online research proved to be invaluable:
 
-+ https://legacy.reactjs.org/docs/getting-started.html
 + https://react.dev/learn
 + https://www.w3schools.com/Js/
 + https://www.w3schools.com/react/
